@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "object.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             },
@@ -164,6 +164,11 @@
   },
   "active": "a54941181d8024d8",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "2023-07-29.md",
+    "object.md",
+    "test/10.函数.py.3df52f547da1c2dff81e2885bb2e1657.tmp",
+    "test/10.函数.py",
     "test/9.for循环.py",
     "test/8.while.py",
     "test/7.判断语句.py",
@@ -171,9 +176,6 @@
     "test/5.格式化表达式简化代码.py",
     "test/5.格式化表达式简化代码.pyt",
     "test/5.格式化表达式简化代码.python",
-    "test/4.字符串格式化的精确控制.py",
-    "test/4.字符串格式化的精确控制",
-    "test/3.字符串格式化.py",
-    "object.md"
+    "test/4.字符串格式化的精确控制.py"
   ]
 }
